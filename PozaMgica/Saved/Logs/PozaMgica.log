@@ -1422,3 +1422,100 @@ The following settings have been applied:
 [2024.06.15-01.35.07:320][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.06.15-01.35.07:655][  3]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2024.06.15-01.35.50:229][720]LogSlate: Window 'リビジョンコントロールにログイン' being destroyed
+[2024.06.15-01.36.55:889][610]LogDerivedDataCache: C:/Users/spoon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.102 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1244 files in 1899 folders with total size 23 MiB.
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:711][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:712][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:712][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:712][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:712][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:712][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:712][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:712][285]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/clonedrepositories/HackzUEteam'
+[2024.06.15-01.40.35:857][285]EditorErrors: Warning: チェックインするアセットがありません。
+[2024.06.15-01.40.35:941][285]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 9699522142733064165
+[2024.06.15-01.40.35:941][285]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.06.15-01.41.55:871][427]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2024.06.15-01.41.55:887][427]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2024.06.15-01.41.55:900][428]LogContentBrowser: Renaming the item being created (Deferred Item: 新規フォルダ).
+[2024.06.15-01.42.00:100][919]LogContentBrowser: Attempting asset rename: 新規フォルダ -> MUGI
+[2024.06.15-01.42.00:101][919]LogContentBrowser: End creating deferred item 新規フォルダ
+[2024.06.15-01.42.04:565][355]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2024.06.15-01.42.04:586][355]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2024.06.15-01.42.04:630][356]LogContentBrowser: Renaming the item being created (Deferred Item: 新規フォルダ).
+[2024.06.15-01.42.09:006][844]LogContentBrowser: Attempting asset rename: 新規フォルダ -> GURIGURI
+[2024.06.15-01.42.09:007][844]LogContentBrowser: End creating deferred item 新規フォルダ
+[2024.06.15-01.42.12:474][185]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2024.06.15-01.42.12:486][185]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2024.06.15-01.42.12:499][186]LogContentBrowser: Renaming the item being created (Deferred Item: 新規フォルダ).
+[2024.06.15-01.42.16:550][649]LogContentBrowser: Attempting asset rename: 新規フォルダ -> OGAME
+[2024.06.15-01.42.16:551][649]LogContentBrowser: End creating deferred item 新規フォルダ
+[2024.06.15-01.43.46:630][588]LogSlate: Window '親クラスを選択' being destroyed
+[2024.06.15-01.43.46:644][588]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.06.15-01.43.46:650][588]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.06.15-01.43.46:681][590]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.06.15-01.43.56:886][792]LogContentBrowser: Attempting asset rename: NewBlueprint -> FireMagic
+[2024.06.15-01.43.57:034][792]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.06.15-01.43.58:483][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GURIGURI/FireMagic.FireMagic
+[2024.06.15-01.43.58:485][944]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.15-01.43.58:485][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.15-01.43.58:499][944]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.06.15-01.43.59:525][944]LogSlate: Took 0.005515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.06.15-01.43.59:588][944]LogViewport: Scene viewport resized to 1100x918, mode Windowed.
+[2024.06.15-01.44.02:653][117]LogViewport: Scene viewport resized to 1706x1012, mode Windowed.
+[2024.06.15-01.44.31:920][ 23]LogUObjectGlobals: Warning: オブジェクト 'Class /Script/PCG.PCGSettings' が見つかりませんでした
+[2024.06.15-01.45.05:870][ 96]BlueprintLog: New page: FireMagic をコンパイル
+[2024.06.15-01.45.05:904][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.06.15-01.45.07:196][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.15-01.45.07:311][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GURIGURI/FireMagic" FILE="../../../../../../clonedrepositories/HackzUEteam/PozaMgica/Content/GURIGURI/FireMagic.uasset" SILENT=true
+[2024.06.15-01.45.07:322][156]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.009124 seconds
+[2024.06.15-01.45.07:334][156]LogSavePackage: Moving output files for package: /Game/GURIGURI/FireMagic
+[2024.06.15-01.45.07:334][156]LogSavePackage: Moving '../../../../../../clonedrepositories/HackzUEteam/PozaMgica/Saved/FireMagicE5C53CF3457AB7792474ABA784061897.tmp' to '../../../../../../clonedrepositories/HackzUEteam/PozaMgica/Content/GURIGURI/FireMagic.uasset'
+[2024.06.15-01.45.07:562][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 365 ms
+[2024.06.15-01.45.07:563][156]AssetCheck: New page: アセット保存：FireMagic
+[2024.06.15-01.45.07:563][156]LogContentValidation: Display: /Script/Engine.Blueprint /Game/GURIGURI/FireMagic.FireMagic を検証しています
+[2024.06.15-01.45.08:360][195]LogViewport: Scene viewport resized to 1100x918, mode Windowed.
+[2024.06.15-01.45.09:504][239]LogViewport: Scene viewport resized to 1095x954, mode Windowed.
+[2024.06.15-01.45.09:642][241]LogViewport: Scene viewport resized to 454x267, mode Windowed.
+[2024.06.15-01.45.09:971][260]LogViewport: Scene viewport resized to 1706x1012, mode Windowed.
+[2024.06.15-01.45.10:376][284]LogSlate: Window 'FireMagic' being destroyed
+[2024.06.15-01.45.12:351][391]LogViewport: Scene viewport resized to 1514x868, mode Windowed.
+[2024.06.15-01.45.13:886][391]LogViewport: Scene viewport resized to 1706x1012, mode Windowed.
+[2024.06.15-01.45.15:944][490]LogViewport: Scene viewport resized to 1514x868, mode Windowed.
