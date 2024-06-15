@@ -82,3 +82,4 @@ PozaMgica/Intermediate/Config
 PozaMgica/Intermediate/ReimportCache
 PozaMgica/Intermediate/CachedAssetRegistry.bin
 /PozaMgica/Content/PMAssets
+*.log
