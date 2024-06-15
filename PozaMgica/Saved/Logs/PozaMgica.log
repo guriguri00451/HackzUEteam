@@ -2392,3 +2392,13 @@ Check the output log for the results of each input conversion.。
 [2024.06.15-05.14.53:715][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 3.33 sec)
 [2024.06.15-05.14.53:716][485]AssetCheck: New page: アセット保存：windMagic
 [2024.06.15-05.14.53:716][485]LogContentValidation: Display: /Script/Engine.Blueprint /Game/GURIGURI/windMagic.windMagic を検証しています
+[2024.06.15-05.15.25:789][805]LogViewport: Scene viewport resized to 757x445, mode Windowed.
+[2024.06.15-05.15.26:326][805]LogViewport: Scene viewport resized to 1141x701, mode Windowed.
+[2024.06.15-05.15.30:086][250]LogMaterialEditor: Saving and Compiling material windMT
+[2024.06.15-05.15.30:089][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.15-05.15.30:151][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GURIGURI/windMT" FILE="../../../../../../Users/kazuh/Documents/GitHub/HackzUEteam/PozaMgica/Content/GURIGURI/windMT.uasset" SILENT=true
+[2024.06.15-05.15.30:152][250]LogSavePackage: Moving output files for package: /Game/GURIGURI/windMT
+[2024.06.15-05.15.30:153][250]LogSavePackage: Moving '../../../../../../Users/kazuh/Documents/GitHub/HackzUEteam/PozaMgica/Saved/windMT6AF80ACA4DFEDF013B9B258B5292750C.tmp' to '../../../../../../Users/kazuh/Documents/GitHub/HackzUEteam/PozaMgica/Content/GURIGURI/windMT.uasset'
+[2024.06.15-05.15.30:158][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.40 sec)
+[2024.06.15-05.15.30:159][250]AssetCheck: New page: アセット保存：windMT
+[2024.06.15-05.15.30:159][250]LogContentValidation: Display: /Script/Engine.Material /Game/GURIGURI/windMT.windMT を検証しています
