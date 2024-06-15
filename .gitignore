@@ -72,3 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+PozaMgica/Saved/Logs/PozaMgica.log
+PozaMgica/.vs
+PozaMgica/Binaries
+PozaMgica/Saved
+PozaMgica/Intermediate/AssetRegistryCache
+PozaMgica/Intermediate/Build
+PozaMgica/Intermediate/Config
+PozaMgica/Intermediate/ReimportCache
+PozaMgica/Intermediate/CachedAssetRegistry.bin
+/PozaMgica/Content/PMAssets
+*.log
