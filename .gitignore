@@ -85,3 +85,4 @@ PozaMgica/Intermediate/CachedAssetRegistry.bin
 *.log
 PozaMgica/Saved/Logs/PozaMgica.log
 PozaMgica/Intermediate/CachedAssetRegistry_0.bin
+/PozaMgica/Plugins/
