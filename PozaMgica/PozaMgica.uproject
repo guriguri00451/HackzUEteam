@@ -30,6 +30,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "pm_asset",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
